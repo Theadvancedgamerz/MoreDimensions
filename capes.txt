@@ -1,4 +1,4 @@
-developer=http://files.theadvancedgamerz.co.uk/capes/test.png
+developer=https://raw.github.com/Theadvancedgamerz/MoreDimensions/master/test.png
 developer=locolocoguy
 developer=player957
 tester=http://www.myurl.com/TESTER_CAPE.png
